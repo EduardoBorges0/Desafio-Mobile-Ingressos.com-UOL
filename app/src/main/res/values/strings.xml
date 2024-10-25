@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ingresso.com</string>
+    <string name="title_activity_search_compose">SearchCompose</string>
+    <string name="title_activity_movie_information">MovieInformation</string>
+</resources>
