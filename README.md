@@ -9,6 +9,10 @@ Bom, o aplicativo consiste em 3 telas:
   - Os filmes que estão em pré venda, são rodeados com uma borda dourada e uma caixinha dentro escrito "Pré-venda".
   - Ao apertar em qualquer filme, você irá para uma tela com os detalhes do filme clicado.
 
+<img src="https://github.com/user-attachments/assets/0620d340-2820-4d3a-9033-612157be87d4" width="200"/>
+<img src="https://github.com/user-attachments/assets/1c0eae8b-57a7-4bcb-9f59-e018c52e7f34" width="200"/>
+
+
 ## Tela com detalhes do filme:
   - Cada filme tem sua tela de detalhes, esses detalhes são:
   - Caso o filme tenha trailer, tem um botão de Start que te leva para o trailer no Youtube.
@@ -19,9 +23,15 @@ Bom, o aplicativo consiste em 3 telas:
   - Diretor.
   - Atores.
   - Sinopse.
+
+    <img src="https://github.com/user-attachments/assets/d7faefce-b618-4055-a874-a0be9935ec13" width="200"/>
+
 ## Tela para pesquisar os filmes:
   - Na tela de pesquisa, temos uma caixa onde você digita o filme que você quer ou o ator, pesquisando o ator, irá aparecer os filmes desse ator que estão ali.
   - Pesquisa em tempo real, cada letra colocada na caixa vai aparecendo os filmes que você deseja chegar.
+
+    <img src="https://github.com/user-attachments/assets/665ae30e-6172-4e89-a71e-4a263fd38f01" width="200"/>
+    <img src="https://github.com/user-attachments/assets/f699c5ed-f18b-47c7-9026-6e8df9597a57" width="200"/>
 
 ## Detalhes Técnicos:
   - Utilizei a arquitetura MVVM para poder separar as responsabilidades e para fácil manutenção futura.
