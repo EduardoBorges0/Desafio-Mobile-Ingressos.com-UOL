@@ -40,4 +40,4 @@ Bom, o aplicativo consiste em 3 telas:
   - Utilizei a biblioteca Coil para carregar as imagens de forma assincrona, para não sobrecarregar a UI e respeitar o tempo de vida do aplicativo. Site(https://github.com/coil-kt/coil)
   - Utilizei a biblioteca RetroFit para poder pegar os dados da API de forma simples e fácil. Site(https://square.github.io/retrofit/)
 ## Como faço para poder rodar esse aplicativo em meu dispositivo?
-  - Caso baixe o aplicativo, nesse caminho terá um apk, ai é só baixar. Agora caso você esteja vendo pelo GitHub, terá um apk aqui nesse README, ai é só baixar.
+  - Caso baixe o aplicativo, em Releases aqui no Github, tem o apk para baixar o aplicativo e testar.
